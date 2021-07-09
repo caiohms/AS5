@@ -11,4 +11,4 @@ Então aqui está. Vídeo do projeto em funcionamento (Timelapse) https://www.yo
 
 Há também um bug que ocorre aleatóriamente algum tempo (30 min a 3h) depois que o projeto é ligado, creio que seja um bug no próprio bus i2c, a exception ocorre no arquivo freertos/queue.h e ainda não sei como reproduzir o bug.
 
-Como pretendo deixar o projeto todo em apenas um ESP32 (ao invés de 2 ESP e 1 Arduino nano como está agora), não pretendo corrigir esse bug.
+Pretendo deixar o projeto todo em apenas um ESP32 (ao invés de 2 ESP e 1 Arduino nano como está agora), então corrigir esse bug não será necessário.
